@@ -1,5 +1,5 @@
 ## project 3.1(hdl files with their output screenshots)
-bit circuit
-register
-RAM 8
-RAM 64
+1. bit circuit
+2. register
+3. RAM 8
+4. RAM 64
